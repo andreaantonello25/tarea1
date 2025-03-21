@@ -57,7 +57,7 @@ El cual nos cuenta el cómo recolectaron la información, los encargados de las 
    ![alt text](imagen8.jpg)
 
 
-   Así mostrándonos el **% de personas que votan igual o encontrar de nosotros**  
+   Así mostrándonos el **% de personas que votan igual o encontrar de nosotros.**  
 
 3. #### ABC Musical:
  **Y, por último**, esquina inferior derecha, encontramos el **listado de las bandas acomodadas en orden alfabético**, de esta manera pudiendo llegar de manera más rápida a nuestra banda favorita.  
@@ -69,13 +69,13 @@ La estructura que presentaron hizo que la manera de contar la historia se volvie
 Pero la verdad es que tal vez no estén todos los datos necesarios para esto, incluyendo la pregunta de **¿Qué es siquiera una boyband?**  
 ![alt text](imagen10.jpeg)
 
-El trabajo de *ThePudding* no fue solamente hacer esta database con las canciones más conocidas de las boybands, sino que también incluyeron [**link para una playlist de Spotify**](https://open.spotify.com/playlist/2OJ4Gw6NRcrHGgpQumI88i?si=00ots-50T5qcgXIGnsF9yw)
+El trabajo de *ThePudding* no fue solamente hacer esta database con las canciones más conocidas de las boybands, sino que también incluyeron [**link para una playlist de Spotify.**](https://open.spotify.com/playlist/2OJ4Gw6NRcrHGgpQumI88i?si=00ots-50T5qcgXIGnsF9yw)
 ![alt text](imagen11.jpeg)
 
 Pero... creo que las Boy Bands han cambiado un poco...
 ![alt text](imagen12.jpeg)
 
-Considero que **todas las bandas estarían orgullosas de estar aquí… o casi todas** 
+Considero que **todas las bandas estarían orgullosas de estar aquí… o casi todas.** 
 <a href="https://www.youtube.com/watch?v=UFC3WvHn_ns&ab_channel=5SOS" target="_blank">
 <img src="imagen13.jpeg" alt="The 5 Seconds of Summer Show" width="240" height="180" border="10" />
 </a>
