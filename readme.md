@@ -28,10 +28,12 @@ Pero no siempre las cosas salen como deseamos, y a veces este **hipervínculo** 
 ![alt text](imagen4.jpeg)
 ![alt text](imagen3.jpeg)
 
+
+### Borde Derecho
+
 Así siguiendo con todo el costado derecho, en donde encontraremos: 
 ![alt text](imagen5.jpeg) 
 
-### Borde Derecho
 1. #### **El conjunto de 3 barritas**:
 El cual nos cuenta el cómo recolectaron la información, los encargados de las animaciones y redacción, y lo más importante… una **playlist de Spotify** (la cual volveremos a mencionar al final).  
 ![alt text](imagen6.jpeg)
