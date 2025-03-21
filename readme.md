@@ -37,11 +37,12 @@ El cual nos cuenta el cómo recolectaron la información, los encargados de la l
 ![alt text](imagen6.jpeg)
 
    Para recolectar la información se basaron en **5 sitios web**:  
-   ⋅⋅1.[The Top 25 Boy Bands Of All Time](https://www.buzzfeed.com/mrloganrhoades/the-top-25-boy-bands-of-all-time)
-   ⋅⋅2.[The 100 Greatest Boy Bands Songs of All Time: Critic's Picks](https://www.billboard.com/media/lists/greatest-boy-band-songs-of-all-time-top-100-8362499/)
-   ⋅⋅3.[Our Favorite Boy Bands of All Time](https://www.teenvogue.com/gallery/best-boy-bands)
-   ⋅⋅4.[Category:American boy bands](https://en.wikipedia.org/wiki/Category:American_boy_bands)
-   ⋅⋅5.[The 150+ Best K-pop Groups Of All Time, Ranked](https://www.ranker.com/list/k-pop-bands-and-musicians/ranker-music)
+
+   1. [The Top 25 Boy Bands Of All Time](https://www.buzzfeed.com/mrloganrhoades/the-top-25-boy-bands-of-all-time)  
+   2. [The 100 Greatest Boy Bands Songs of All Time: Critic's Picks](https://www.billboard.com/media/lists/greatest-boy-band-songs-of-all-time-top-100-8362499/)  
+   3. [Our Favorite Boy Bands of All Time](https://www.teenvogue.com/gallery/best-boy-bands)  
+   4. [Category:American boy bands](https://en.wikipedia.org/wiki/Category:American_boy_bands)  
+   5. [The 150+ Best K-pop Groups Of All Time, Ranked](https://www.ranker.com/list/k-pop-bands-and-musicians/ranker-music)  
 
    En los cuales se realizan **Rankin** y análisis de estas mismas bandas pudiendo así llegar a esta línea del tiempo.  
 
