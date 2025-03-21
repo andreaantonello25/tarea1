@@ -1,11 +1,11 @@
 readme.md
-# Internet Boy Band Data Base  
+# Internet Boy Band DataBase  
 
-**Internet boy band data base** es una webstory de *ThePudding* la cual de manera audiovisual nos muestra todas las boybands que desde los años 80’s han entrado al “Billboard Hot 100”.  
+**Internet boy band database** es una webstory de *ThePudding* la cual de manera audiovisual nos muestra todas las boybands que desde los años 80’s han entrado al “Billboard Hot 100”.  
 ![alt text](imagen0.jpeg)
 
 
-A través de una página interactiva nos hace hacer una travesía que empieza con *Musical Youth* en 1983, y termina con *BTS* en 2017.  
+A través de una página interactiva nos lleva en una travesía que empieza con *Musical Youth* en 1983, y termina con *BTS* en 2017.  
 
 En un llamativo fondo de color azul celeste nos induce al mundo de la música, en donde no solamente nos dicen los nombres de las bandas, sino que mientras escuchamos las canciones de fondo, podemos bailar y disfrutar junto a las animaciones de los chicos que nos hacen revivir sus conciertos.  
 
@@ -18,13 +18,13 @@ Desde diferentes accesorios, atuendos personales o cabellos coloridos, que nos h
 
 ### Borde Izquierdo
 
-Siguiendo la línea visual desde la izquierda a la derecha, lo primero que logramos apreciar es que; al lado de los nombres de las bandas, de los títulos de las canciones y su puesto en el ranking, encontramos un **hiper vinculo** para *casi* todas las canciones en YouTube.  
+Siguiendo la línea visual desde la izquierda a la derecha, lo primero que logramos apreciar es que; al lado de los nombres de las bandas, de los títulos de las canciones y su puesto en el ranking, encontramos un **hipervinculo** para *casi* todas las canciones en YouTube.  
 
 Si todo sale bien, debería pasar esto:
 ![alt text](imagen1.5.jpeg)
 ![alt text](imagen2.jpeg)
 
-Pero no siempre las cosas salen como deseamos, y a veces este **hiper vínculo** no nos lleva a ningún lugar.
+Pero no siempre las cosas salen como deseamos, y a veces este **hipervínculo** no nos lleva a ningún lugar.
 ![alt text](imagen4.jpeg)
 ![alt text](imagen3.jpeg)
 
@@ -33,7 +33,7 @@ Así siguiendo con todo el costado derecho, en donde encontraremos:
 
 ### Borde Derecho
 1. #### **El conjunto de 3 barritas**:
-El cual nos cuenta el cómo recolectaron la información, los encargados de la las animaciones y redacción, y lo más importante… una **playlist de Spotify** (la cual volveremos a mencionar al final).  
+El cual nos cuenta el cómo recolectaron la información, los encargados de las animaciones y redacción, y lo más importante… una **playlist de Spotify** (la cual volveremos a mencionar al final).  
 ![alt text](imagen6.jpeg)
 
    Para recolectar la información se basaron en **5 sitios web**:  
@@ -44,7 +44,7 @@ El cual nos cuenta el cómo recolectaron la información, los encargados de la l
    4. [Category:American boy bands](https://en.wikipedia.org/wiki/Category:American_boy_bands)  
    5. [The 150+ Best K-pop Groups Of All Time, Ranked](https://www.ranker.com/list/k-pop-bands-and-musicians/ranker-music)  
 
-   En los cuales se realizan **Rankin** y análisis de estas mismas bandas pudiendo así llegar a esta línea del tiempo.  
+   En los cuales se realizan **ranking** y análisis de estas mismas bandas pudiendo así llegar a esta línea del tiempo.  
 
 2. #### La dupla de emojis:
  Más abajo nos encontramos con un conjunto de **2 emojis** listos para expresar nuestra opinión:  
@@ -62,18 +62,18 @@ El cual nos cuenta el cómo recolectaron la información, los encargados de la l
 
 ## Reflexión final  
 
-La estructura que presentaron hizo que la manera de contar la historia se volviera altamente creativa, pero considero que el haber puesto información extra, como; historias de las bandas, algún análisis de las canciones, o de la opinión de la fanaticada, hubieran logrado ser una gran adición, la cual nos ayudarían a poder entrar mejor en este mundo que nos ofrecen.  
+La estructura que presentaron hizo que la manera de contar la historia se volviera altamente creativa, pero considero que el haber incluido información extra; como historias de las bandas, algún análisis de las canciones, o de la opinión de la fanaticada, hubieran logrado ser una gran adición, la cual nos ayudarían a poder entrar mejor en este mundo que nos ofrecen.  
 
 Pero la verdad es que tal vez no estén todos los datos necesarios para esto, incluyendo la pregunta de **¿Qué es siquiera una boyband?**  
 ![alt text](imagen10.jpeg)
 
-El trabajado de *ThePudding* no fue solamente hacer esta database con las canciones más conocidas de las boybands, sino que también incluyeron [**link para una playlist de Spotify**](https://open.spotify.com/playlist/2OJ4Gw6NRcrHGgpQumI88i?si=00ots-50T5qcgXIGnsF9yw)
+El trabajo de *ThePudding* no fue solamente hacer esta database con las canciones más conocidas de las boybands, sino que también incluyeron [**link para una playlist de Spotify**](https://open.spotify.com/playlist/2OJ4Gw6NRcrHGgpQumI88i?si=00ots-50T5qcgXIGnsF9yw)
 ![alt text](imagen11.jpeg)
 
 Pero... creo que las Boy Bands han cambiado un poco...
 ![alt text](imagen12.jpeg)
 
 Considero que **todas las bandas estarían orgullosas de estar aquí… o casi todas** 
-<a href="https://www.youtube.com/watch?v=UFC3WvHn_ns&ab_channel=5SOS
-" target="_blank"><img src="imagen13.jpeg" 
-alt="The 5 Second of Summer Show" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=UFC3WvHn_ns&ab_channel=5SOS" target="_blank">
+<img src="imagen13.jpeg" alt="The 5 Seconds of Summer Show" width="240" height="180" border="10" />
+</a>
