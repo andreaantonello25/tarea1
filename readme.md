@@ -9,6 +9,9 @@ En un llamativo fondo de color azul celeste nos induce al mundo de la música, e
 
 Desde diferentes accesorios, atuendos personales o cabellos coloridos, que nos hacen reconocer a los chicos, nos ayuda a entrar en esta narrativa la cual va más allá de la música, es un viaje a través de las épocas.  
 
+![alt text](imagen1.jpeg)
+
+
 ## La interactividad en esta webstory también esta…  
 
 Siguiendo la línea visual desde la izquierda a la derecha, lo primero que logramos apreciar es que; al lado de los nombres de las bandas, de los títulos de las canciones y su puesto en el ranking, encontramos un **hiper vinculo** para casi todas las canciones en YouTube  
@@ -22,7 +25,7 @@ Así siguiendo con todo el costado derecho, en donde encontraremos:
    En los cuales se realizan **Rankin** y análisis de estas mismas bandas pudiendo así llegar a esta línea del tiempo.  
 
 2.  Más abajo nos encontramos con un conjunto de **2 emojis** listos para expresar nuestra opinión:  
-   - 😊 *Carita con corazones* para tirar corazones morados.  
+   - 😍 *Carita con corazones* para tirar corazones morados.  
    - 😡 *Carita molesta roja* para poder lanzar caca.  
 
 
@@ -39,3 +42,5 @@ Pero la verdad es que tal vez no estén todos los datos necesarios para esto, in
 El trabajado de *ThePudding* no fue solamente hacer esta database con las canciones más conocidas de las boybands, sino que incluyeron un **link para una playlist de Spotify** de las bandas… pero parece que alguien hizo una nueva adición a esta lista  
 
 Considero que **todas las bandas estarían orgullosas de estar aquí… o casi todas** 
+
+[def]: imagen1
